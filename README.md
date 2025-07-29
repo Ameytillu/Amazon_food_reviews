@@ -1,6 +1,6 @@
 # Amazon Food Reviews Sentiment Analysis Web App
 
-This project is part of my personal journey to demonstrate my skills in **Web Scraping**, **NLP**, and **Machine Learning** by building a working sentiment analysis model that can classify Amazon food reviews into **Positive**, **Neutral**, or **Negative** sentiments.
+This project is part of my personal journey of learning to deployment of a ML model, **NLP**, and **Machine Learning** by building a working sentiment analysis model that can classify Amazon food reviews into **Positive**, **Neutral**, or **Negative** sentiments.
 
 ## My Goal
 
