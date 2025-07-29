@@ -7,8 +7,8 @@ model = joblib.load("models/sentiment_model.pkl")
 vectorizer = joblib.load("models/vectorizer.pkl")
 
 # App title
-st.title("Amazon Review Sentiment Predictor 🛍️")
-st.write("Enter a product review and get its predicted sentiment.")
+st.title("Food Review Sentiment Predictor 🛍️")
+st.write("Enter a food review and get its predicted sentiment.")
 
 # Input box
 user_input = st.text_area("📝 Enter your review here")
